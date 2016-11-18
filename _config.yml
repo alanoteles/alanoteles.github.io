@@ -9,8 +9,8 @@
 title: Minimal
 email: blog@minimal.com.br
 description: Esse blog é uma implementação de desenvolvimento com o Jekyll. Espero que gostem !
-baseurl: "/minimal-blog" 
-url: "http://alanoteles.com.br" # the base hostname & protocol for your site
+baseurl: "" 
+url: "https://alanoteles.github.io/" # the base hostname & protocol for your site
 twitter_username: minimal_twitter
 github_username:  minimal-github
 
